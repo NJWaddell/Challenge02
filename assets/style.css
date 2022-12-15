@@ -1,0 +1,83 @@
+body{
+    background-color:lightblue;
+}
+
+main{
+    margin: 15px;
+    flex:auto;
+    flex-wrap: wrap;
+    align-self: center;
+
+}
+.main-section{
+    margin:0%;
+    padding: 1%;
+    text-align: center;
+    font-size: larger;
+    background-color: lightblue;
+
+}
+
+
+.hero-banner{
+    background-image: url("./download.jpg");
+    padding: 0%;
+    margin:auto;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size:contain;
+    position: relative;
+}
+
+.hero-text{
+    padding: 0%;
+    /* position: left; */
+    margin:0%;
+left:0%;
+    background: lightcoral;
+    width:0%;
+    height: -50%;
+    color:black;
+
+
+}
+h2,
+h3,
+{
+    f
+}
+
+.about-section{
+ margin:0%;
+ padding: 1%;
+ background-image: url("./bi_1.jpg");
+ height: 50%;
+ text-align: left;
+}
+
+.work-section{
+    margin:0%;
+    padding: 1%;
+    background-image: url("./bi_3.jpg");
+    height: 50%;
+    text-align: left;
+    color:white
+}
+
+.contact-section{
+    margin:0%;
+    padding: 1%;
+    background-image: url("./bi_2.jpg");
+    height: 50%;
+    text-align: left;
+}
+
+.resume-section{
+    color:white;
+    margin:0%;
+    padding: 1%;
+    background-image: url("./bi_4.jpg");
+    height: 50%;
+    text-align: left;
+}
